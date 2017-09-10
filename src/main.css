@@ -1,0 +1,28 @@
+#warpper {
+  width: 50%; }
+
+#characterImgDisplay > div {
+  position: relative;
+  height: 230px; }
+  #characterImgDisplay > div > img {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; }
+  #characterImgDisplay > div > span {
+    position: absolute;
+    margin: auto;
+    color: red;
+    font-weight: bold;
+    font-size: 2em; }
+
+.center-block {
+  text-align: center; }
+
+.progress-bar {
+  min-width: 1em;
+  transition: width 1s; }
+
+/*# sourceMappingURL=main.css.map */
